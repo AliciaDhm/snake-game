@@ -12,7 +12,8 @@ Ce projet est un jeu Snake dans le terminal. Le joueur contrôle le snake au cla
 
 
 ## Structure
-
+```text
+.
 ├─ Snake_Game.py
-
 └─ score.txt  # généré après une partie (record)
+```
